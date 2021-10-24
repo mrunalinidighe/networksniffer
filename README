@@ -94,16 +94,5 @@
       http://www.github.com/jpcap
 
 
-  Contributing
-
-    If you are using jpcap and have made enhancements or bug fixes to the 
-    core capture library, please contribute them.
-
-    You can contribute by forking the project and sending a pull request
-    to http://www.github.com/jpcap.
-
-    If you've developed an application using jpcap, we're interested in 
-    hearing about it at jpcapadmin at ultrametrics dot net.
-
-    Happy Hacking!
+  
 
